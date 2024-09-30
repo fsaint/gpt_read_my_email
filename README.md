@@ -1,2 +1,7 @@
-# gpt_read_my_email
-Could ChaGPT read my email? An exercise in structured output 
+# Mr. GPT, please read my (school) emails
+
+Example on using ChatGPT structured output to parse emails from gmail.
+
+For details [read this article]()
+
+
